@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 100vh;
+  background-color: black;
+  padding-bottom: 80px;
+}
+
+.responsive-container {
+  width: 90%;
+  margin: auto;
+}
+
+.prime-logo {
+  width: 100%;
+  height: 210px;
+}
+
+.movie-category-heading {
+  font-size: 30px;
+  color: White;
+}
